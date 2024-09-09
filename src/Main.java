@@ -1,4 +1,3 @@
-//Iterate through String. Print each character of the String in every new line.
 public class Main {
     public static void main(String[] args) {
 //Demonstrate while loop
